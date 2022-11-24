@@ -1,0 +1,3 @@
+// Polyfill of promise.all
+
+
